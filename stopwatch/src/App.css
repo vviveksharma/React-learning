@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.timer {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.controls {
+  text-align: center;
+}
+
+button {
+  font-size: 1rem;
+  padding: 8px 16px;
+  margin: 0 10px;
+}
